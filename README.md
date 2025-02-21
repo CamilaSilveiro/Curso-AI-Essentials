@@ -1,0 +1,2 @@
+# Curso AI Essentials
+ Este curso explora o uso prático de LLMs (Large Language Models) para diversas tarefas, desde criação de conteúdo e tradução até análise de sentimentos e solução de problemas. Aprenda a criar prompts eficazes utilizando técnicas como zero-shot e few-shot, otimizar resultados através da iteração e estar ciente das limitações e potenciais vieses dos LLMs para um uso ético e responsável da IA.
